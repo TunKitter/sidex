@@ -1,4 +1,4 @@
-<h1 align="center">SideX</h1>
+<h1 align="center">SideX - Forked by Tunkit</h1>
 
 <p align="center">
   <strong>VSCode's workbench, without Electron.</strong>
